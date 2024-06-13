@@ -2,8 +2,7 @@
 @section('title','Contacto')
 
 @section('content')
-    <h2>Contactoe</h2>
-   @endsection
+    <h2>Contacto</h2>
+@endsection
 
 
-Contacto
